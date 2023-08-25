@@ -1,1 +1,1 @@
-form postgres:12
+from postgres:12
